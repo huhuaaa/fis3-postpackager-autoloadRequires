@@ -1,0 +1,27 @@
+{
+  "name": "fis3-postpackager-loadrequires",
+  "version": "0.0.2",
+  "description": "fis3 loadrequires module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huhuaaa/fis3-postpackager-autoloadRequires.git"
+  },
+  "keywords": [
+    "fis3",
+    "postpackager",
+    "loadrequires"
+  ],
+  "email": "1311775708@qq.com",
+  "author": {
+    "name": "qk"
+  },
+  "readmeFilename": "README.md",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/huhuaaa/fis3-postpackager-autoloadRequires/issues"
+  },
+  "homepage": "https://github.com/huhuaaa/fis3-postpackager-autoloadRequires",
+  "_id": "fis3-postpackager-loadrequires@0.0.2",
+  "_from": "fis3-postpackager-loadrequires@"
+}
