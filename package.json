@@ -1,6 +1,6 @@
 {
   "name": "fis3-postpackager-loadrequires",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "fis3 loadrequires module",
   "main": "index.js",
   "repository": {
@@ -22,6 +22,6 @@
     "url": "https://github.com/huhuaaa/fis3-postpackager-autoloadRequires/issues"
   },
   "homepage": "https://github.com/huhuaaa/fis3-postpackager-autoloadRequires",
-  "_id": "fis3-postpackager-loadrequires@0.0.2",
+  "_id": "fis3-postpackager-loadrequires@0.1.0",
   "_from": "fis3-postpackager-loadrequires@"
 }
